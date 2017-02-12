@@ -1,3 +1,5 @@
+#Five step code to generate and save the required plot
+
 #Loading data from the Electric Power Consumption dataset
 power <- read.table("household_power_consumption.txt",sep=";", header = TRUE)
 
